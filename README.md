@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m passionate full stack devloper from India.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Django, FastApi, Postgresql.
 - 💞️ I’m looking to collaborate on Django.
 - 📫 How to reach me abhiyanshbisht@gmail.com
 - 💬 Ask me about Javascript, Python and Django.
