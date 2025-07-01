@@ -5,18 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FACC15&vCenter=true&center=true&width=450&lines=Full+Stack+Developer;Open+Source+Contributor;Django+%7C+React+%7C+FastAPI+%7C+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FACC15&vCenter=true&center=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Django+%7C+React+%7C+FastAPI+%7C+PostgreSQL" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🧑‍💻 Passionate about building real-time, scalable, and meaningful web applications.
-- 🌱 Currently exploring: **FastAPI**, **WebSockets**, and **DevOps basics**.
-- 🛠️ Focused on: **Django**, **React**, and PostgreSQL-based full stack apps.
-- 🤝 Looking to collaborate on open source Django or MERN stack projects.
-- ⚡ Fun fact: I enjoy debugging complex backend issues (and I make them fun 😄).
+- 💻 I’m a passionate full stack developer skilled in building scalable, real-time, and user-centric applications.
+- 🧑‍🎓 Pursuing M.C.A from Amity University; Bachelor's from Kumaun University.
+- 🌱 Currently deep-diving into: **FastAPI**, **WebSockets**, and **DevOps basics**.
+- 🛠️ Core stack: Django, React, PostgreSQL, Tailwind, FastAPI, MongoDB.
+- 🚀 Developed and deployed multiple full-stack apps like **E-commerce**, **Tic Tac Toe**, and **XtraROMs**.
+- 🤝 Always open to contributing to meaningful **Open Source** and **collaborative** projects.
+- ⚡ Fun fact: I find backend bugs therapeutic 😄
 
 ---
 
@@ -28,9 +30,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -38,20 +41,20 @@
 ## 🚀 Featured Projects
 
 ### 📱 Tic Tac Toe (React Native)
-> A dynamic mobile game with React Hooks, UI animations, and full game logic.  
-→ Turn-based gameplay | Win/draw detection | Tailwind UI
+> A responsive mobile game built using React Hooks and Tailwind CSS.  
+→ Turn-based logic | Win-draw detection | Polished UI
 
 ### 🛒 E-Commerce Platform (Django + React)
-> Full-featured ecommerce site with product management, cart, secure auth.  
-→ Django backend | PostgreSQL | Stripe Payment Gateway
+> Scalable full-stack site with product management, secure user auth & cart.  
+→ PostgreSQL | Stripe integration | CSRF-protected APIs
 
-### 📂 XtraROMs Platform
-> A Django site to discover & upload custom Android ROMs for devices.  
-→ User auth | File uploads | Search filters | Clean UI
+### 📂 XtraROMs – Custom Android ROM Platform
+> A Django-powered platform for discovering & uploading smartphone ROMs.  
+→ Auth system | Searchable filters | Media uploads
 
 ### 🌐 Personal Portfolio
-> Responsive portfolio with integrated **Buy Me a Coffee** donation support  
-→ Tailwind CSS | Scroll animation | Resume download
+> Minimal, responsive portfolio with **Buy Me a Coffee** payment support  
+→ Tailwind + Scroll animations | PDF resume download
 
 ---
 
@@ -76,6 +79,7 @@
 
 ---
 
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+> _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
 
-Thanks for visiting my profile! Feel free to ⭐️ my repositories and let’s connect 🚀
+⭐️ Thanks for stopping by! Don't forget to star ⭐️ your favorite projects!
+
