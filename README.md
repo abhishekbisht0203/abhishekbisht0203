@@ -63,14 +63,34 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abhishek's GitHub stats" />
+  <!-- GitHub Summary -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abhishek's GitHub Stats" />
 
+  <!-- GitHub Streak -->
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbisht0203&theme=tokyonight" alt="GitHub Streak" />
 
+  <!-- Top Languages -->
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight&hide=c%2B%2B&langs_count=6&custom_title=Languages+I+Use+Most" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight&langs_count=6&hide=c%2B%2B%2CCython" alt="Top Languages" />
 </p>
+
+---
+
+### 🧠 Stats Summary (as of July 1, 2025)
+
+- ⭐️ **Total Stars**: 7  
+- 🔁 **Total Commits**: 72  
+- 🔧 **Total PRs**: 1  
+- 🐞 **Total Issues**: 0  
+- 📈 **Contributed to (last year)**: 1  
+- 🔥 **Total Contributions**: 97  
+- ⏳ **Longest Streak**: 4 days  
+- ⚡ **Languages I Use Most**:
+  - 🐍 Python: 96.3%
+  - ⚛️ JavaScript: 0.6%
+  - 🌐 HTML + CSS:
+
 
 
 ---
