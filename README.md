@@ -64,13 +64,16 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight" alt="Abhishek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbisht0203&theme=tokyonight" alt="Abhishek's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=abhishekbisht0203&theme=tokyonight" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
