@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/abhishekbisht0203/abhishekbisht0203/blob/main/Abhishek_Bisht_GitHub_Banner.png?raw=true" alt="Abhishek Bisht Banner" />
+  <img src="https://raw.githubusercontent.com/abhishekbisht0203/abhishekbisht0203/aaef12c2cade6832f7bba7b7b028cba8d8c4a20b/Abhishek%20Bisht.png" alt="Abhishek Bisht Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Abhishek Bisht! 👋</h1>
