@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/abhishekbisht0203/abhishekbisht0203/blob/main/Abhishek_Bisht_GitHub_Banner.png?raw=true" alt="Abhishek Bisht Banner" />
+</p>
+
 <h1 align="center">Hi, I'm Abhishek Bisht! 👋</h1>
 
 <p align="center">
@@ -44,7 +48,7 @@
 > A responsive mobile game built using React Hooks and Tailwind CSS.  
 → Turn-based logic | Win-draw detection | Polished UI
 
-### 🛒 E-Commerce Platform (Django + React)
+### 🛒 E-Commerce Platform (Django + Payment Gateway)
 > Scalable full-stack site with product management, secure user auth & cart.  
 → PostgreSQL | Stripe integration | CSRF-protected APIs
 
