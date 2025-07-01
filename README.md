@@ -62,13 +62,14 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abhishek's GitHub stats" />
+
   <br />
-  <img src="https://streak-stats.demolab.com?user=abhishekbisht0203&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbisht0203&theme=tokyonight" alt="GitHub Streak" />
+
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight&hide=c%2B%2B&langs_count=6&custom_title=Languages+I+Use+Most" alt="Top Languages" />
 </p>
 
 
