@@ -62,18 +62,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Summary -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abhishek's GitHub Stats" />
-
-  <!-- GitHub Streak -->
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbisht0203&theme=tokyonight" alt="GitHub Streak" />
-
-  <!-- Top Languages -->
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight&langs_count=6&hide=c%2B%2B%2CCython" alt="Top Languages" />
-</p>
+<p align="center"> <!-- GitHub Summary --> <img src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abhishek's GitHub Stats" /> <!-- GitHub Streak --> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbisht0203&theme=tokyonight" alt="GitHub Streak" /> <!-- Top Languages --> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight&langs_count=6&hide=c,cpp,cython,java" alt="Top Languages" /> </p>
 
 ---
 
