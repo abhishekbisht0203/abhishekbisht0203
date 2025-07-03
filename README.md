@@ -81,8 +81,9 @@
 
   <!-- 🏆 Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekbisht0203&theme=tokyonight&no-frame=true&row=2&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,MultiLanguage,Discussions,Organizations,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekbisht0203&theme=tokyonight&no-frame=true&row=2&column=6&title=Stars,Commits,PullRequest,Repositories,MultiLanguage,Reviews" />
 </p>
+
 ---
 
 ### 🧠 Stats Summary (as of July 1, 2025)
