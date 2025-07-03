@@ -62,8 +62,26 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"> <!-- GitHub Summary --> <img src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abhishek's GitHub Stats" /> <!-- GitHub Streak --> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbisht0203&theme=tokyonight" alt="GitHub Streak" /> <!-- Top Languages --> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight&langs_count=6&hide=c,cpp,cython,java" alt="Top Languages" /> </p>
+<p align="center">
+  <!-- 🏆 Custom A Grade Badge -->
+  <img src="https://img.shields.io/badge/GitHub%20Grade-A-blueviolet?style=for-the-badge&logo=github" alt="GitHub Grade: A" />
+  <br /><br />
 
+  <!-- 📈 GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br />
+
+  <!-- 🔥 Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekbisht0203&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <br />
+
+  <!-- 🌐 Most Used Languages (hide C++, etc.) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight&langs_count=8&hide=c,cpp,cython,powershell" alt="Top Languages" />
+  <br /><br />
+
+  <!-- 🏆 Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekbisht0203&theme=tokyonight&no-frame=true&row=1&column=6&title=Stars,Commits,PullRequest,Repositories" />
+</p>
 ---
 
 ### 🧠 Stats Summary (as of July 1, 2025)
