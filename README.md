@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi, I'm Abhishek Bisht! 👋</h1>
 
 <p align="center">
@@ -31,6 +29,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -86,24 +86,6 @@
 
 ---
 
-### 🧠 Stats Summary (as of July 1, 2025)
-
-- ⭐️ **Total Stars**: 7  
-- 🔁 **Total Commits**: 72  
-- 🔧 **Total PRs**: 1  
-- 🐞 **Total Issues**: 0  
-- 📈 **Contributed to (last year)**: 1  
-- 🔥 **Total Contributions**: 97  
-- ⏳ **Longest Streak**: 4 days  
-- ⚡ **Languages I Use Most**:
-  - 🐍 Python: 96.3%
-  - ⚛️ JavaScript: 0.6%
-  - 🌐 HTML + CSS:
-
-
-
----
-
 ## 🌐 Let's Connect
 
 - 📫 Email: [abhiyanshbisht@gmail.com](mailto:abhiyanshbisht@gmail.com)  
@@ -116,4 +98,3 @@
 > _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
 
 ⭐️ Thanks for stopping by! Don't forget to star ⭐️ your favorite projects!
-
