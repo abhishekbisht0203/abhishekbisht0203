@@ -14,9 +14,9 @@
 
 - 💻 I’m a passionate full stack developer skilled in building scalable, real-time, and user-centric applications.
 - 🧑‍🎓 Pursuing M.C.A from Amity University; Bachelor's from Kumaun University.
-- 🌱 Currently deep-diving into: **FastAPI**, **WebSockets**, and **DevOps basics**.
-- 🛠️ Core stack: Django, React, PostgreSQL, Tailwind, FastAPI, MongoDB.
-- 🚀 Developed and deployed multiple full-stack apps like **E-commerce**, **Tic Tac Toe**, and **XtraROMs**.
+- 🌱 Currently deep-diving into: **Node**, **Typescript**, **FastAPI**, **WebSockets**, and **DevOps basics**.
+- 🛠️ Core stack: Django, React, PostgreSQL, Tailwind, FastAPI, MongoDB, Node, Typescript, Next.
+- 🚀 Developed and deployed multiple full-stack apps like **E-commerce**, **Portfolio**, and **chatClassRoom**.
 - 🤝 Always open to contributing to meaningful **Open Source** and **collaborative** projects.
 - ⚡ Fun fact: I find backend bugs therapeutic 😄
 
