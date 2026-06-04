@@ -1,100 +1,225 @@
-<h1 align="center">Hi, I'm Abhishek Bisht! 👋</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Bisht</h1>
+<h3 align="center">Full Stack Developer | MERN • Django • FastAPI • Next.js</h3>
 
 <p align="center">
-  🔥 Full Stack Developer | 🐍 Pythonista | 🌍 Based in Nainital, India  
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FACC15&vCenter=true&center=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Django+%7C+React+%7C+FastAPI+%7C+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Django+%26+FastAPI+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 💻 I’m a passionate full stack developer skilled in building scalable, real-time, and user-centric applications.
-- 🧑‍🎓 Pursuing M.C.A from Amity University; Bachelor's from Kumaun University.
-- 🌱 Currently deep-diving into: **Node**, **Typescript**, **FastAPI**, **WebSockets**, and **DevOps basics**.
-- 🛠️ Core stack: Django, React, PostgreSQL, Tailwind, FastAPI, MongoDB, Node, Typescript, Next.
-- 🚀 Developed and deployed multiple full-stack apps like **E-commerce**, **Portfolio**, and **chatClassRoom**.
-- 🤝 Always open to contributing to meaningful **Open Source** and **collaborative** projects.
-- ⚡ Fun fact: I find backend bugs therapeutic 😄
+💼 Software Engineer with experience building production-ready applications
 
----
+🚀 Specialized in MERN Stack, Django REST Framework, FastAPI & Next.js
 
-## 🔧 Technologies & Tools
+⚡ Passionate about scalable backend systems, API optimization & real-time applications
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🌱 Currently exploring:
+- TypeScript
+- DevOps
+- System Design
+- Cloud Technologies
+
+🎯 Focus Areas:
+- High Performance APIs
+- Real-Time Applications
+- Role Based Dashboards
+- Authentication Systems
+- Full Stack Architecture
+
+📍 Nainital, Uttarakhand, India
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Tech Stack
 
-### 📱 Tic Tac Toe (React Native)
-> A responsive mobile game built using React Hooks and Tailwind CSS.  
-→ Turn-based logic | Win-draw detection | Polished UI
+### ⚙ Backend
 
-### 🛒 E-Commerce Platform (Django + Payment Gateway)
-> Scalable full-stack site with product management, secure user auth & cart.  
-→ PostgreSQL | Stripe integration | CSRF-protected APIs
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+- Node.js
+- Express.js
+- REST APIs
+- WebSockets
+- Authentication & Authorization
 
-### 📂 XtraROMs – Custom Android ROM Platform
-> A Django-powered platform for discovering & uploading smartphone ROMs.  
-→ Auth system | Searchable filters | Media uploads
+### 🎨 Frontend
 
-### 🌐 Personal Portfolio
-> Minimal, responsive portfolio with **Buy Me a Coffee** payment support  
-→ Tailwind + Scroll animations | PDF resume download
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- Responsive UI Design
+
+### 🗄 Databases
+
+- PostgreSQL
+- MongoDB
+- MySQL
+
+### 🚀 DevOps & Tools
+
+- Git
+- GitHub
+- Docker
+- CI/CD
+- Razorpay
+- Stripe
+- Cloudinary
+- Postman
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I Build
+
+⚡ Scalable REST APIs
+
+📊 Enterprise Dashboards
+
+🔐 Secure Authentication Systems
+
+🌐 Full Stack Web Applications
+
+💬 Real-Time WebSocket Applications
+
+🛒 E-Commerce Platforms
+
+📱 Progressive Web Apps (PWA)
+
+📈 Data-Driven Platforms
+
+---
+
+## 🌟 Featured Projects
+
+### 🎓 ChatClassRoom – Virtual Learning Platform
+
+🔹 Real-time collaborative e-learning platform
+
+🔹 Django REST Framework APIs
+
+🔹 Google & GitHub OAuth
+
+🔹 Progressive Web App (PWA)
+
+🔹 Real-time communication features
+
+---
+
+### 🛒 E-Commerce Platform
+
+🔹 Product Management System
+
+🔹 Stripe Payment Gateway
+
+🔹 Secure Authentication
+
+🔹 Order Management
+
+🔹 Responsive UI
+
+---
+
+### 🚔 E-Challan Admin System
+
+🔹 Next.js + Node.js + MongoDB
+
+🔹 Role-Based Dashboards
+
+🔹 Excel/CSV Export
+
+🔹 Real-Time Reporting
+
+🔹 High Performance APIs
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <!-- 🏆 Custom A Grade Badge -->
-  <img src="https://img.shields.io/badge/GitHub%20Grade-A-blueviolet?style=for-the-badge&logo=github" alt="GitHub Grade: A" />
-  <br /><br />
 
-  <!-- 📈 GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <!-- 🔥 Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekbisht0203&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbisht0203&theme=tokyonight&hide_border=true"/>
 
-  <!-- 🌐 Most Used Languages (hide C++, etc.) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight&langs_count=8&hide=c,cpp,cython,powershell" alt="Top Languages" />
-  <br /><br />
+</p>
 
-  <!-- 🏆 Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekbisht0203&theme=tokyonight&no-frame=true&row=2&column=6&title=Stars,Commits,PullRequest,Repositories,MultiLanguage,Reviews" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 📊 Contribution Activity
 
-- 📫 Email: [abhiyanshbisht@gmail.com](mailto:abhiyanshbisht@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-bisht-876541308/)  
-- 🌍 [Portfolio Website](https://abhishekbisht0203.github.io)  
-- 🔗 [GitHub](https://github.com/abhishekbisht0203)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekbisht0203&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-> _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
+## 🏆 GitHub Trophies
 
-⭐️ Thanks for stopping by! Don't forget to star ⭐️ your favorite projects!
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekbisht0203&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:abhiyanshbisht@gmail.com">
+📧 Email
+</a>
+
+<br>
+
+<a href="https://linkedin.com/in/abhishek-bisht-876541308">
+💼 LinkedIn
+</a>
+
+<br>
+
+<a href="https://github.com/abhishekbisht0203">
+🐙 GitHub
+</a>
+
+</p>
+
+---
+
+## 💡 Engineering Philosophy
+
+✅ Clean & Maintainable Code
+
+⚙ Backend First, Performance Always
+
+📐 Design Before Development
+
+🚀 Build for Scale
+
+🧪 Continuous Learning & Optimization
+
+---
+
+### ⚡ Fun Fact
+
+```python
+while True:
+    learn()
+    build()
+    deploy()
+    repeat()
+```
+
+> "First, solve the problem. Then, write the code."
+
+⭐ If you like my work, consider starring my repositories.
