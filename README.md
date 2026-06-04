@@ -143,31 +143,24 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbisht0203&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=abhishekbisht0203&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+## 📊 Contribution Graph
 
-## 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekbisht0203&theme=tokyo-night&hide_border=true"/>
-
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekbisht0203&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekbisht0203&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekbisht0203&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
