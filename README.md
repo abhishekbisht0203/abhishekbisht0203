@@ -159,10 +159,8 @@ https://abhishek9590.pythonanywhere.com/
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekbisht0203&theme=github-dark-blue)
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=abhishekbisht0203&theme=github_dark)
 ---
 
 ## 📊 Contribution Activity
