@@ -1,225 +1,211 @@
-<h1 align="center">Hi 👋, I'm Abhishek Bisht</h1>
-<h3 align="center">Full Stack Developer | MERN • Django • FastAPI • Next.js</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Django+%26+FastAPI+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+# 👋 Hi, I'm <span style="color:#4f46e5;">Abhishek Bisht</span>
+
+### Full Stack Software Engineer | MERN • Django • FastAPI • Next.js
+
+<p>
+I build <b>scalable full-stack applications</b>, <b>high-performance APIs</b>,
+and <b>real-time systems</b> using modern JavaScript and Python ecosystems.
 </p>
 
----
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Software+Engineer;MERN+Stack+Developer;Django+REST+Framework+%7C+FastAPI;Next.js+%7C+React+Developer;Scalable+Backend+Architectures;Real-Time+Applications+%7C+WebSockets"
+/>
 
-## 👨‍💻 About Me
-
-💼 Software Engineer with experience building production-ready applications
-
-🚀 Specialized in MERN Stack, Django REST Framework, FastAPI & Next.js
-
-⚡ Passionate about scalable backend systems, API optimization & real-time applications
-
-🌱 Currently exploring:
-- TypeScript
-- DevOps
-- System Design
-- Cloud Technologies
-
-🎯 Focus Areas:
-- High Performance APIs
-- Real-Time Applications
-- Role Based Dashboards
-- Authentication Systems
-- Full Stack Architecture
-
-📍 Nainital, Uttarakhand, India
+</div>
 
 ---
 
 ## 🧠 Tech Stack
 
+<table width="100%">
+<tr>
+
+<td valign="top" width="35%">
+
 ### ⚙ Backend
 
 - Python
-- Django
 - Django REST Framework
 - FastAPI
 - Node.js
 - Express.js
 - REST APIs
-- WebSockets
 - Authentication & Authorization
+- WebSockets
+- Payment Gateway Integration
+
+</td>
+
+<td valign="top" width="35%">
 
 ### 🎨 Frontend
 
 - React.js
 - Next.js
 - TypeScript
-- JavaScript
+- JavaScript (ES6+)
 - Tailwind CSS
 - HTML5
 - CSS3
-- Responsive UI Design
+- Responsive UI Development
 
-### 🗄 Databases
+</td>
+
+<td valign="top" width="30%">
+
+### 🗄 Database & DevOps
 
 - PostgreSQL
 - MongoDB
-- MySQL
-
-### 🚀 DevOps & Tools
-
-- Git
-- GitHub
-- Docker
+- Git & GitHub
 - CI/CD
-- Razorpay
-- Stripe
 - Cloudinary
-- Postman
+- Docker
+- Deployment & Hosting
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,react,nextjs,typescript,javascript,postgres,mongodb,docker,git,github,tailwind,vscode,linux" />
+</p>
 
 ---
 
 ## 🚀 What I Build
 
-⚡ Scalable REST APIs
-
-📊 Enterprise Dashboards
-
-🔐 Secure Authentication Systems
-
-🌐 Full Stack Web Applications
-
-💬 Real-Time WebSocket Applications
-
-🛒 E-Commerce Platforms
-
-📱 Progressive Web Apps (PWA)
-
-📈 Data-Driven Platforms
+- ⚡ Scalable REST APIs & Backend Systems
+- 🔐 Secure Authentication & Authorization
+- 📊 Admin Dashboards & Data Management Platforms
+- 🌐 Full Stack Web Applications
+- 📱 Responsive & Mobile-First Interfaces
+- 🔄 Real-Time Applications using WebSockets
+- 💳 Payment Gateway Integrations
+- 🏗 Enterprise-Level Architecture & System Design
 
 ---
 
-## 🌟 Featured Projects
+## 💼 Professional Experience
 
-### 🎓 ChatClassRoom – Virtual Learning Platform
+### 🏢 Software Engineer — Vahanfin Solutions Pvt. Ltd.
 
-🔹 Real-time collaborative e-learning platform
+- Developed and deployed E-Challan Admin System
+- Built scalable dashboards using Next.js, Node.js & MongoDB
+- Implemented role-based access control (RBAC)
+- Optimized backend performance and API response times
+- Integrated real-time data synchronization
 
-🔹 Django REST Framework APIs
+### 🏢 Full Stack Developer — Dexplovate Pvt. Ltd.
 
-🔹 Google & GitHub OAuth
+- Developed scalable applications using MERN Stack & FastAPI
+- Designed MongoDB & PostgreSQL architectures
+- Built high-performance APIs
+- Improved UI/UX through cross-functional collaboration
 
-🔹 Progressive Web App (PWA)
+### 🏢 Python Full Stack Developer — CADL
 
-🔹 Real-time communication features
+- Built scalable applications using Django REST Framework
+- Implemented secure authentication systems
+- Integrated Payment Gateways & Third-party APIs
+- Developed responsive React + Tailwind interfaces
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 ChatClassRoom — Virtual Learning Platform
+
+- Real-time collaborative e-learning platform
+- Django REST Framework backend
+- Google & GitHub OAuth Authentication
+- Progressive Web App (PWA)
+- Mobile-first responsive experience
+
+🔗 Live Demo:
+https://chatclassroom.onrender.com/
 
 ---
 
 ### 🛒 E-Commerce Platform
 
-🔹 Product Management System
+- Full-stack E-Commerce Application
+- Product Catalog & Cart Management
+- Stripe Payment Integration
+- Secure Authentication
+- React + Tailwind Responsive UI
 
-🔹 Stripe Payment Gateway
-
-🔹 Secure Authentication
-
-🔹 Order Management
-
-🔹 Responsive UI
+🔗 Live Demo:
+https://abhishek9590.pythonanywhere.com/
 
 ---
 
-### 🚔 E-Challan Admin System
+## 🏆 Key Achievements
 
-🔹 Next.js + Node.js + MongoDB
-
-🔹 Role-Based Dashboards
-
-🔹 Excel/CSV Export
-
-🔹 Real-Time Reporting
-
-🔹 High Performance APIs
+- ✅ Built multiple production-ready applications
+- ✅ Developed real-time systems used in live environments
+- ✅ Designed scalable APIs serving large datasets
+- ✅ Implemented CI/CD pipelines using GitHub Actions
+- ✅ Optimized database performance and API response times
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=github_dark)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbisht0203&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbisht0203&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekbisht0203&theme=github-dark-blue)
 
 ---
 
 ## 📊 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekbisht0203&theme=tokyo-night&hide_border=true"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekbisht0203&theme=react-dark&hide_border=true"
+/>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Current Focus
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekbisht0203&theme=tokyonight&row=1&column=7"/>
-</p>
+- 🚀 Advanced System Design
+- ⚡ High Performance Backend Engineering
+- 🤖 AI-Powered Applications
+- ☁ Cloud & DevOps
+- 🔄 Distributed Systems
+- 🏗 Scalable Architecture Patterns
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-
-<a href="mailto:abhiyanshbisht@gmail.com">
-📧 Email
+<a href="https://github.com/abhishekbisht0203">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-<br>
 
 <a href="https://linkedin.com/in/abhishek-bisht-876541308">
-💼 LinkedIn
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<br>
-
-<a href="https://github.com/abhishekbisht0203">
-🐙 GitHub
+<a href="mailto:abhiyanshbisht@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
 </p>
 
 ---
 
-## 💡 Engineering Philosophy
+<div align="center">
 
-✅ Clean & Maintainable Code
-
-⚙ Backend First, Performance Always
-
-📐 Design Before Development
-
-🚀 Build for Scale
-
-🧪 Continuous Learning & Optimization
-
----
-
-### ⚡ Fun Fact
-
-```python
-while True:
-    learn()
-    build()
-    deploy()
-    repeat()
-```
-
-> "First, solve the problem. Then, write the code."
+### 💡 "Building scalable software that solves real-world problems."
 
 ⭐ If you like my work, consider starring my repositories.
+
+</div>
