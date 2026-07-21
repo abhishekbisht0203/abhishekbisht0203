@@ -208,6 +208,49 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekbish
 
 ---
 
+# 💻 Programming Languages & Expertise
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<b>Python</b><br>
+██████████ 95%
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>
+<b>JavaScript</b><br>
+█████████░ 90%
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=typescript" width="55"/><br>
+<b>TypeScript</b><br>
+████████░░ 80%
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<b>Java</b><br>
+██████░░░░ 60%
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<b>HTML5</b><br>
+██████████ 100%
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<b>CSS3</b><br>
+██████████ 100%
+</td>
+
+</tr>
+</table>
+
 ## 🎯 Current Focus
 
 - 🚀 Advanced System Design
