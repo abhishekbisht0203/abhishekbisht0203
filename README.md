@@ -137,7 +137,33 @@ src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=4
 
 ---
 
+## 🎓 Education
+
+**Master of Computer Applications (MCA)** — Amity University *(Pursuing)*
+
+---
+
 ## 🚀 Featured Projects
+
+### 💼 JobPilot AI — MERN Job Portal Platform
+Production-ready MERN job portal platform with AI-powered resume building, mock interviews, ATS resume checking, and career roadmaps.
+- Built 120+ REST APIs across jobs, applications, companies, and career tools using Node.js, Express, and MongoDB
+- JWT + Google/GitHub OAuth authentication with role-based access for job seekers and recruiters
+- Integrated GROQ AI for resume scoring, cover letter generation, and mock interview evaluation
+- Deployed on Vercel & Render with CI/CD
+
+🔗 Live Demo: https://job-pilot-web-three.vercel.app/
+
+---
+
+### 🎬 StreamSphere — Video Streaming Platform
+Netflix-inspired video streaming platform built with Java Spring Boot, Next.js, PostgreSQL, and the TMDB API.
+- JWT-based authentication and HLS streaming
+- Responsive, modern UI for browsing and playback
+
+🔗 Live Demo: https://watchstreamx.vercel.app/
+
+---
 
 ### 🧠 AI Research Copilot — Multi-Agent RAG System
 Full-stack AI-powered research assistant combining multi-agent orchestration, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP) integration to automate complex document analysis and research workflows.
@@ -166,7 +192,7 @@ Full-stack AI-powered research assistant combining multi-agent orchestration, Re
 - Optimized APIs for product and order management
 - Responsive UI with React + Tailwind
 
-🔗 Live Demo: https://ecommerce-8ksn.onrender.com/
+🔗 Live Demo: https://ecommerce-shopiq.vercel.app/
 
 ---
 
