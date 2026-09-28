@@ -1,295 +1,405 @@
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#4f46e5;">Abhishek Bisht</span>
+👋 Hi, I'm <span style="color:#4f46e5;">Abhishek Bisht</span>
 
-### Full Stack Software Engineer | MERN • Django • FastAPI • Next.js • AI/LLM Systems
+Full Stack Software Engineer | MERN · Next.js · FastAPI · Django REST | AI/RAG Systems
 
 <p>
-I build <b>scalable full-stack applications</b>, <b>high-performance APIs</b>,
-<b>real-time systems</b>, and <b>AI-powered agentic workflows</b> using modern
-JavaScript, Python, and LLM ecosystems.
+I build <b>scalable full-stack applications</b>, <b>high-performance REST APIs</b>,
+<b>role-based multi-user dashboards</b>, <b>real-time systems</b>, and
+<b>AI-powered agentic workflows</b> using modern JavaScript, Python, and LLM ecosystems.
 </p>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Software+Engineer;MERN+Stack+Developer;Django+REST+Framework+%7C+FastAPI;Next.js+%7C+React+Developer;AI+Agents+%7C+RAG+%7C+LangGraph;Scalable+Backend+Architectures;Real-Time+Applications+%7C+WebSockets"
+src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;MERN+Stack+Developer;Next.js+%7C+React+Developer;FastAPI+%7C+Django+REST+Developer;AI+Agents+%7C+RAG+%7C+LangGraph;Scalable+REST+APIs;Real-Time+Systems+%7C+WebSockets"
 />
+
+<p>
+<a href="https://linkedin.com/in/abhishek-bisht-876541308">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/abhishekbisht0203">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:abhiyanshbisht@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 
 </div>
 
----
+🧑‍💻 About Me
 
-## 🧠 Tech Stack
+Full Stack Software Engineer with 2+ years of experience building and deploying 10+ production-ready applications using MERN, Next.js, FastAPI, and Django REST Framework.
+
+I specialize in high-performance REST APIs, role-based multi-user dashboards, database optimization, real-time systems, and mobile-first UIs. I also build AI-powered systems using LangGraph, RAG, Qdrant, MCP, and LLM APIs.
+
+My experience includes a live E-Challan admin platform supporting approximately 500+ daily active users, along with scalable business applications and AI workflows.
+
+🧠 Tech Stack
 
 <table width="100%">
 <tr>
 
 <td valign="top" width="25%">
 
-### ⚙ Backend
+⚙️ Backend
 
-- Python
-- Django REST Framework
-- FastAPI
-- Node.js
-- Express.js
-- REST APIs
-- Authentication (JWT, OAuth 2.0)
-- RBAC
-- WebSockets
-- Celery
-- Payment Gateway Integration
+Python
 
-</td>
+FastAPI
 
-<td valign="top" width="25%">
+Django REST Framework
 
-### 🎨 Frontend
+Node.js
 
-- React.js
-- Next.js (App Router, TanStack Query)
-- TypeScript
-- JavaScript (ES6+)
-- Tailwind CSS
-- HTML5 / CSS3
-- Responsive UI Development
+Express.js
+
+REST API Design
+
+JWT Authentication
+
+OAuth 2.0
+
+RBAC
+
+WebSockets
+
+Celery
+
+Workflow Automation
 
 </td>
 
 <td valign="top" width="25%">
 
-### 🗄 Database & DevOps
+🎨 Frontend
 
-- PostgreSQL
-- MongoDB
-- Redis
-- Qdrant (Vector DB)
-- Docker & Docker Compose
-- Git & GitHub Actions / CI-CD
-- MinIO
-- Prometheus / Grafana
-- Cloudinary
+React.js
+
+Next.js
+
+TypeScript
+
+JavaScript
+
+Tailwind CSS
+
+HTML
+
+CSS
+
+Responsive / Mobile-First UI
 
 </td>
 
 <td valign="top" width="25%">
 
-### 🤖 AI & Machine Learning
+🗄️ Database & DevOps
 
-- LLMs (OpenAI, Anthropic/Claude)
-- LangChain / LangGraph
-- Retrieval-Augmented Generation (RAG)
-- Multi-Agent Systems
-- Model Context Protocol (MCP)
-- Prompt Engineering
-- Sentence Transformers
+PostgreSQL
+
+MongoDB
+
+Redis
+
+Qdrant
+
+Docker
+
+Docker Compose
+
+Git
+
+GitHub Actions
+
+CI/CD
+
+MinIO
+
+Vercel
+
+Render
+
+</td>
+
+<td valign="top" width="25%">
+
+🤖 AI & Machine Learning
+
+LangChain
+
+LangGraph
+
+Retrieval-Augmented Generation (RAG)
+
+AI Agents
+
+MCP (Model Context Protocol)
+
+LLM APIs
+
+Claude API
+
+OpenRouter
+
+GROQ AI
+
+Sentence Transformers
 
 </td>
 
 </tr>
 </table>
 
----
-
-## 🛠 Tools & Technologies
+🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,react,nextjs,typescript,javascript,postgres,mongodb,redis,docker,git,github,tailwind,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,react,nextjs,typescript,javascript,postgres,mongodb,redis,docker,git,github,tailwind,vscode,linux,java" />
 </p>
 
----
+<p>
+<img src="https://img.shields.io/badge/React%20Native-Mobile%20Development-61DAFB?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-Mobile%20Development-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-CMS-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+</p>
 
-## 🚀 What I Build
+🚀 What I Build
 
-- ⚡ Scalable REST APIs & Backend Systems
-- 🔐 Secure Authentication, Authorization & RBAC
-- 📊 Role-Based Admin Dashboards & Data Management Platforms
-- 🌐 Full Stack Web Applications
-- 📱 Responsive & Mobile-First Interfaces
-- 🔄 Real-Time Applications using WebSockets & SSE
-- 💳 Payment Gateway Integrations (Stripe, Razorpay)
-- 🤖 AI-Powered Applications — Multi-Agent Systems, RAG Pipelines, MCP Integrations
-- 🏗 Enterprise-Level Architecture & System Design
+⚡ Scalable REST APIs and backend systems
 
----
+🔐 Secure authentication, authorization, and RBAC workflows
 
-## 💼 Professional Experience
+📊 Role-based admin dashboards and data management platforms
 
-### 🏢 Software Engineer — Vahanfin Solutions Pvt. Ltd. `01/2026 – 06/2026`
-**E-Challan Admin System**
-- Built and deployed a scalable E-Challan admin dashboard using Next.js, Node.js & MongoDB
-- Designed and optimized REST APIs for vehicle challan data enabling fast filtering, reporting & real-time access
-- Implemented role-based dashboards (RMCC, RMI, Admin) to streamline multi-user workflows and access control
-- Developed dynamic data tables with Excel/CSV export aligned with time-based filters (7-day, 30-day, yearly)
-- Improved backend performance by optimizing database queries, significantly reducing API response times
-- Delivered production-level UI using Tailwind CSS and modern component libraries
+🌐 Full-stack web applications
 
-### 🏢 Full Stack Developer — Dexplovate Pvt. Ltd. `05/2025 – 11/2025`
-- Led development of scalable applications using MERN Stack & FastAPI, improving system performance and modularity
-- Architected MongoDB & PostgreSQL database solutions enabling efficient data handling and scalable workflows
-- Built high-performance APIs and integrated them with React frontends for seamless UX
-- Delivered real-time features and improved UI/UX through cross-functional collaboration
+📱 Mobile-first and responsive interfaces
 
-### 🏢 Python Full Stack Developer — CADL (Chandigarh Academy of Digital Learning) `04/2024 – 04/2025`
-- Engineered scalable web applications using Django REST Framework, improving API efficiency and performance
-- Implemented secure authentication systems, enhancing data protection and system reliability
-- Built responsive UIs using React and Tailwind, improving cross-device usability
-- Integrated third-party APIs, payment gateways, and WebSockets to enhance functionality
+🔄 Real-time systems using WebSockets and SSE
 
----
+💳 Payment gateway integrations
 
-## 🎓 Education
+🤖 AI-powered applications using agents, RAG, LangGraph, MCP, and LLM APIs
 
-**Master of Computer Applications (MCA)** — Amity University *(Pursuing)*
+🗃️ Optimized PostgreSQL and MongoDB data workflows
 
----
+🏗️ Scalable architecture and system design
 
-## 🚀 Featured Projects
+💼 Professional Experience
 
-### 💼 JobPilot AI — MERN Job Portal Platform
-Production-ready MERN job portal platform with AI-powered resume building, mock interviews, ATS resume checking, and career roadmaps.
-- Built 120+ REST APIs across jobs, applications, companies, and career tools using Node.js, Express, and MongoDB
-- JWT + Google/GitHub OAuth authentication with role-based access for job seekers and recruiters
-- Integrated GROQ AI for resume scoring, cover letter generation, and mock interview evaluation
-- Deployed on Vercel & Render with CI/CD
+🏢 Software Engineer — Vahanfin Solutions Pvt. Ltd.
+
+E-Challan Admin System | Jan 2026 – Jun 2026
+
+Built and deployed a scalable E-Challan admin dashboard using Next.js, Node.js, and MongoDB, supporting approximately 500+ daily active users across RMCC, RMI, and Admin roles.
+
+Designed and optimized REST APIs for vehicle challan data, reducing average API response time by approximately 35% through query optimization and indexing.
+
+Implemented role-based dashboards for RMCC, RMI, and Admin, cutting manual reporting time by approximately 6+ hours/week.
+
+Developed dynamic data tables with Excel/CSV export and time-based filters covering 10,000+ records.
+
+Integrated frontend and backend for real-time data synchronization, eliminating approximately 5 minutes of manual refresh delay per session.
+
+Delivered production-level UI using Tailwind CSS and modern component libraries, supporting cross-device usage across 500+ concurrent users.
+
+🏢 Full Stack Developer — Dexplovate Pvt. Ltd.
+
+May 2025 – Nov 2025
+
+Led development of 5+ scalable applications using the MERN stack and FastAPI, improving modularity and reducing deployment time by approximately 25%.
+
+Architected MongoDB and PostgreSQL database solutions handling 20,000+ records.
+
+Built and integrated 40+ high-performance REST APIs with React frontends, improving page load speed by approximately 30%.
+
+Delivered real-time features using WebSockets while collaborating with a team of 5, improving user engagement by approximately 20%.
+
+🏢 Python Full Stack Developer — CADL
+
+Chandigarh Academy of Digital Learning | Apr 2024 – Apr 2025
+
+Engineered scalable web applications using Django REST Framework, improving API response efficiency by approximately 20%.
+
+Implemented secure JWT-based authentication across systems supporting 1,000+ user accounts.
+
+Built responsive UIs using React and Tailwind CSS, improving cross-device usability and reducing bounce rate by approximately 15%.
+
+Integrated third-party APIs, payment gateways, and WebSockets, enabling 4+ new product features.
+
+🚀 Featured Projects
+
+💼 JobPilot AI — MERN Job Portal Platform
+
+Production-ready MERN job portal with AI-powered career tooling.
+
+Built AI-powered resume building, mock interviews, ATS resume checking, and career roadmaps.
+
+Developed 120+ REST APIs across jobs, applications, companies, and career tools using Node.js, Express, and MongoDB.
+
+Implemented JWT + Google/GitHub OAuth authentication with role-based access for job seekers and recruiters.
+
+Integrated GROQ AI for resume scoring, cover letter generation, and mock interview evaluation.
+
+Deployed on Vercel and Render with CI/CD.
 
 🔗 Live Demo: https://job-pilot-web-three.vercel.app/
 
----
+🧠 AI Research Copilot — Multi-Agent RAG System
 
-### 🎬 StreamSphere — Video Streaming Platform
-Netflix-inspired video streaming platform built with Java Spring Boot, Next.js, PostgreSQL, and the TMDB API.
-- JWT-based authentication and HLS streaming
-- Responsive, modern UI for browsing and playback
+Full-stack AI research assistant combining multi-agent orchestration, RAG, and MCP for automated document analysis.
 
-🔗 Live Demo: https://watchstreamx.vercel.app/
+Built a LangGraph-based multi-agent system with Supervisor, Planner, Researcher, and Critic agents.
 
----
+Designed a RAG pipeline using Qdrant, semantic chunking, cross-encoder re-ranking, and citation tracking.
 
-### 🧠 AI Research Copilot — Multi-Agent RAG System
-Full-stack AI-powered research assistant combining multi-agent orchestration, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP) integration to automate complex document analysis and research workflows.
-- Multi-agent system built with LangGraph (Supervisor, Planner, Researcher, Critic agents) for automated task decomposition
-- RAG pipeline with Qdrant vector database, semantic chunking, cross-encoder re-ranking, and citation tracking
-- FastAPI backend (async architecture, Celery, JWT/OAuth 2.0) + Next.js 14 frontend (TypeScript, TanStack Query, SSE streaming)
-- Containerized with Docker Compose (PostgreSQL, Redis, Qdrant, MinIO) plus Prometheus/Grafana monitoring and GitHub Actions CI/CD
+Developed an async FastAPI backend with Celery, JWT/OAuth 2.0, and a Next.js 14 frontend using TypeScript and TanStack Query.
+
+Implemented real-time SSE streaming for responsive AI workflows.
+
+Containerized infrastructure with Docker Compose, PostgreSQL, Redis, Qdrant, and MinIO.
+
+Added Prometheus/Grafana monitoring and GitHub Actions CI/CD.
 
 🔗 Live Demo: https://abryx-ai.vercel.app/
 
----
+🛒 E-Commerce Platform
 
-### 🎓 ChatClassRoom — Virtual Learning Platform
-- Real-time collaborative e-learning platform for students and teachers
-- Django REST Framework backend with REST APIs for notes, questions, and user systems
-- Google & GitHub OAuth authentication
-- Progressive Web App (PWA) for offline, mobile-first experience
+Full-stack e-commerce platform focused on secure payments and optimized business APIs.
 
-🔗 Live Demo: https://chatclassroom.onrender.com/
+Developed product catalog, authentication, and cart functionality.
 
----
+Built optimized product and order APIs, improving performance by approximately 25%.
 
-### 🛒 E-Commerce Platform
-- Full-stack e-commerce application with product catalog & cart management
-- Stripe payment integration with webhook handling for secure transactions
-- Optimized APIs for product and order management
-- Responsive UI with React + Tailwind
+Integrated Stripe with webhook handling for secure payment workflows.
+
+Designed a responsive UI using React and Tailwind CSS.
 
 🔗 Live Demo: https://ecommerce-shopiq.vercel.app/
 
----
+💼 Portfolio Website
 
-### 💼 Portfolio
-- Modern, responsive portfolio built with Next.js, TypeScript & Tailwind CSS
-- SEO-optimized with fast page loading and recruiter-focused features (resume download, GitHub integration, contact form)
-- Deployed on Vercel with CI/CD workflow
+Modern portfolio built with Next.js, TypeScript, and Tailwind CSS.
+
+Implemented SEO best practices and performance optimization.
+
+Achieved a 90+ Lighthouse performance score.
+
+Integrated GitHub repositories, resume download, and contact functionality.
+
+Deployed with Vercel.
 
 🔗 Live Demo: https://abhishekbisht.vercel.app/
 
----
+🏆 Key Achievements
 
-## 🏆 Key Achievements
+✅ Built and deployed 10+ full-stack web applications using MERN, Django, FastAPI, and Next.js.
 
-- ✅ Built and deployed 10+ full-stack web applications using MERN, Django, FastAPI, and Next.js
-- ✅ Developed scalable REST APIs and real-time systems used in production environments
-- ✅ Designed role-based dashboard systems with secure authentication and authorization workflows
-- ✅ Optimized database queries and backend services, significantly improving application performance
-- ✅ Integrated third-party services including Stripe, Razorpay, OAuth, Cloudinary, and WebSockets
-- ✅ Implemented CI/CD pipelines and automated deployment workflows using GitHub Actions and Vercel
-- ✅ Delivered responsive, mobile-first user interfaces with React, Next.js, and Tailwind CSS
-- ✅ Architected MongoDB and PostgreSQL database solutions for scalable business applications
-- ✅ Built AI-powered applications and workflows using LLMs, Claude API, OpenRouter, and MCP
+✅ Developed 150+ REST APIs and real-time systems used in production environments.
 
----
+✅ Designed role-based dashboard systems with secure authentication and authorization workflows.
 
-## 📈 GitHub Stats
+✅ Optimized database queries and backend services, improving application performance by approximately 30%.
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=abhishekbisht0203&theme=github_dark)
+✅ Integrated third-party services including Stripe, Razorpay, OAuth, Cloudinary, and WebSockets.
 
----
+✅ Implemented CI/CD pipelines and automated deployments using GitHub Actions and Vercel.
 
-## 📊 Contribution Activity
+✅ Architected MongoDB and PostgreSQL solutions for scalable business applications.
+
+✅ Built AI-powered applications and workflows using LLMs, Claude API, OpenRouter, and MCP.
+
+📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=abhishekbisht0203&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=abhishekbisht0203&theme=github_dark" />
+</p>
+
+📊 Contribution Activity
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekbisht0203&theme=react-dark&hide_border=true"
 />
 
----
-
-# 💻 Programming Languages & Expertise
+💻 Programming Languages & Expertise
 
 <table>
 <tr>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
 <b>Python</b><br>
-██████████ 95%
+██████████
 </td>
 
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>
 <b>JavaScript</b><br>
-█████████░ 90%
+█████████░
 </td>
 
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=typescript" width="55"/><br>
 <b>TypeScript</b><br>
-████████░░ 80%
+████████░░
 </td>
 
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=java" width="55"/><br>
 <b>Java</b><br>
-██████░░░░ 60%
+██████░░░░
 </td>
 
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=html" width="55"/><br>
 <b>HTML5</b><br>
-██████████ 100%
+██████████
 </td>
 
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=css" width="55"/><br>
 <b>CSS3</b><br>
-██████████ 100%
+██████████
 </td>
 
 </tr>
 </table>
 
-## 🎯 Current Focus
+🎯 Current Focus
 
-- 🚀 Advanced System Design
-- ⚡ High Performance Backend Engineering
-- 🤖 AI Agents, RAG & LLM-Powered Applications
-- ☁ Cloud & DevOps
-- 🔄 Distributed Systems
-- 🏗 Scalable Architecture Patterns
-- 🎓 Pursuing MCA at Amity University
+🚀 Advanced System Design
 
----
+⚡ High-Performance Backend Engineering
 
-## 📫 Connect With Me
+🤖 AI Agents, RAG, LangGraph & LLM-Powered Applications
+
+☁️ Cloud & DevOps
+
+🔄 Distributed and Real-Time Systems
+
+🏗️ Scalable Architecture Patterns
+
+📱 Cross-Platform Development with React Native and Flutter
+
+🧩 PHP & WordPress Development
+
+🎓 MCA at Amity University
+
+🎓 Education
+
+Master of Computer Applications (MCA)
+Amity University | 2025 – Present
+
+📜 Certifications
+
+Full Stack Developer Certificate — CADL (Chandigarh Academy of Digital Learning), 2024
+
+Experience Certificate — Software Engineer, E-Challan India (Vahanfin Solutions Pvt. Ltd.)
+
+📫 Connect With Me
 
 <p align="left">
 <a href="https://github.com/abhishekbisht0203">
@@ -305,11 +415,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekbish
 </a>
 </p>
 
----
-
 <div align="center">
 
-### 💡 "Building scalable software that solves real-world problems."
+💡 Building scalable software and AI systems that solve real-world problems.
 
 ⭐ If you like my work, consider starring my repositories.
 
